@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "zipCode": "12345",
+      "following": [2, 3, 4] 
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "zipCode": "67890",
+      "following": [1]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "zipCode": "54321",
+      "following": [1]
+    },
+    {
+      "id": 4,
+      "name": "Eve Anderson",
+      "email": "eve@example.com",
+      "zipCode": "98765",
+      "following": [1]
+    }
+  ]
+  

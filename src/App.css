@@ -1,0 +1,53 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* App container styles */
+div {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Page content styles */
+main {
+  padding-top: 2rem;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
+
+/* Custom button styles */
+.button {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
+/* Custom link styles */
+.link {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.link:hover {
+  color: #2980b9;
+}

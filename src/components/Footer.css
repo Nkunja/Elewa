@@ -1,0 +1,32 @@
+.footer {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 0px;
+  }
+  
+  .footer-links a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .footer-contact p {
+    color: #555;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    /* margin-top: 20px; */
+    padding: 10px 0;
+    border-top: 1px solid #ccc;
+  }
+  
+  /* Add any additional styles as needed */
+  
